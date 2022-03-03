@@ -1,3 +1,19 @@
 {
-  "jokes": []
+  "jokes": [
+    {
+      "id": "vk31LJB5Elb",
+      "joke": "Why didn’t the orange win the race? It ran out of juice.",
+      "status": 200
+    },
+    {
+      "id": "oWS08MeVvzd",
+      "joke": "My friend said to me: \"What rhymes with orange\" I said: \"no it doesn't\"",
+      "status": 200
+    },
+    {
+      "id": "B5h311TS7h",
+      "joke": "I couldn't figure out how the seat belt worked. Then it just clicked.",
+      "status": 200
+    }
+  ]
 }
